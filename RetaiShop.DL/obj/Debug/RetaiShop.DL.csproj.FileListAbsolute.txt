@@ -1,0 +1,22 @@
+D:\Projects\RetailShop\RetaiShop.DL\bin\Debug\RetaiShop.DL.dll
+D:\Projects\RetailShop\RetaiShop.DL\bin\Debug\RetaiShop.DL.pdb
+D:\Projects\RetailShop\RetaiShop.DL\bin\Debug\Dapper.dll
+D:\Projects\RetailShop\RetaiShop.DL\bin\Debug\RetailShop.BL.dll
+D:\Projects\RetailShop\RetaiShop.DL\bin\Debug\RetailShop.BL.pdb
+D:\Projects\RetailShop\RetaiShop.DL\bin\Debug\Dapper.xml
+D:\Projects\RetailShop\RetaiShop.DL\obj\Debug\RetaiShop.DL.csprojAssemblyReference.cache
+D:\Projects\RetailShop\RetaiShop.DL\obj\Debug\RetaiShop.DL.csproj.CoreCompileInputs.cache
+D:\Projects\RetailShop\RetaiShop.DL\obj\Debug\RetaiShop.DL.csproj.CopyComplete
+D:\Projects\RetailShop\RetaiShop.DL\obj\Debug\RetaiShop.DL.dll
+D:\Projects\RetailShop\RetaiShop.DL\obj\Debug\RetaiShop.DL.pdb
+D:\Projects\RetailShop - Github\RetaiShop.DL\bin\Debug\RetaiShop.DL.dll
+D:\Projects\RetailShop - Github\RetaiShop.DL\bin\Debug\RetaiShop.DL.pdb
+D:\Projects\RetailShop - Github\RetaiShop.DL\bin\Debug\Dapper.dll
+D:\Projects\RetailShop - Github\RetaiShop.DL\bin\Debug\RetailShop.BL.dll
+D:\Projects\RetailShop - Github\RetaiShop.DL\bin\Debug\RetailShop.BL.pdb
+D:\Projects\RetailShop - Github\RetaiShop.DL\bin\Debug\Dapper.xml
+D:\Projects\RetailShop - Github\RetaiShop.DL\obj\Debug\RetaiShop.DL.csprojAssemblyReference.cache
+D:\Projects\RetailShop - Github\RetaiShop.DL\obj\Debug\RetaiShop.DL.csproj.CoreCompileInputs.cache
+D:\Projects\RetailShop - Github\RetaiShop.DL\obj\Debug\RetaiShop.DL.csproj.CopyComplete
+D:\Projects\RetailShop - Github\RetaiShop.DL\obj\Debug\RetaiShop.DL.dll
+D:\Projects\RetailShop - Github\RetaiShop.DL\obj\Debug\RetaiShop.DL.pdb

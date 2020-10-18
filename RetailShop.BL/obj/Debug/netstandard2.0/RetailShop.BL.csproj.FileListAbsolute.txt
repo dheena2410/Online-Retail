@@ -1,0 +1,45 @@
+C:\Users\admin\source\repos\WebApi\WebApi.BL\bin\Debug\netstandard2.0\RetailShop.BL.deps.json
+C:\Users\admin\source\repos\WebApi\WebApi.BL\bin\Debug\netstandard2.0\RetailShop.BL.dll
+C:\Users\admin\source\repos\WebApi\WebApi.BL\bin\Debug\netstandard2.0\RetailShop.BL.pdb
+C:\Users\admin\source\repos\WebApi\WebApi.BL\obj\Debug\netstandard2.0\RetailShop.BL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\WebApi\WebApi.BL\obj\Debug\netstandard2.0\RetailShop.BL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WebApi\WebApi.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\WebApi\WebApi.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfo.cs
+C:\Users\admin\source\repos\WebApi\WebApi.BL\obj\Debug\netstandard2.0\RetailShop.BL.dll
+C:\Users\admin\source\repos\WebApi\WebApi.BL\obj\Debug\netstandard2.0\RetailShop.BL.pdb
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.deps.json
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.dll
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.pdb
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfo.cs
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.dll
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.pdb
+C:\Users\admin\source\repos\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csprojAssemblyReference.cache
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.deps.json
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.dll
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.pdb
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csprojAssemblyReference.cache
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csproj.CoreCompileInputs.cache
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfoInputs.cache
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfo.cs
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.dll
+D:\Projects\RetailShopNew\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.pdb
+D:\Projects\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.deps.json
+D:\Projects\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.dll
+D:\Projects\RetailShop\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.pdb
+D:\Projects\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csprojAssemblyReference.cache
+D:\Projects\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csproj.CoreCompileInputs.cache
+D:\Projects\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfoInputs.cache
+D:\Projects\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfo.cs
+D:\Projects\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.dll
+D:\Projects\RetailShop\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.pdb
+D:\Projects\RetailShop - Github\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.deps.json
+D:\Projects\RetailShop - Github\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.dll
+D:\Projects\RetailShop - Github\RetailShop.BL\bin\Debug\netstandard2.0\RetailShop.BL.pdb
+D:\Projects\RetailShop - Github\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csprojAssemblyReference.cache
+D:\Projects\RetailShop - Github\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.csproj.CoreCompileInputs.cache
+D:\Projects\RetailShop - Github\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfoInputs.cache
+D:\Projects\RetailShop - Github\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.AssemblyInfo.cs
+D:\Projects\RetailShop - Github\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.dll
+D:\Projects\RetailShop - Github\RetailShop.BL\obj\Debug\netstandard2.0\RetailShop.BL.pdb
